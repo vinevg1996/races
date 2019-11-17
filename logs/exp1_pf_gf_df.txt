@@ -1,0 +1,11 @@
+http://192.168.0.148:8181/onos/v1/flows/of:0000000000000001?appId=666
+pf_gf_df
+start
+total_size = 81
+94
+Number of flow rules in the Switch at the beginning = 81
+Flow rules in the Switch at the beginning:
+29 58 67 47 37 7 5 9 49 21 3 55 46 15 24 61 65 51 54 23 62 32 25 48 53 4 6 20 71 66 8 69 27 52 60 56 73 0 78 1 63 2 33 68 26 10 13 44 36 12 72 39 40 35 41 19 17 59 50 38 16 31 64 14 75 45 30 28 22 34 42 11 77 57 18 76 43 74 70 
+Number of flow rules in the Switch after deleting = 94
+Flow rules in the Switch after deleting:
+70 77 58 67 78 57 94 9 49 28 46 53 79 65 17 61 66 63 89 81 92 4 24 47 71 42 96 62 36 5 7 30 48 44 83 21 29 54 52 51 40 75 38 41 91 88 84 32 82 25 60 3 72 87 80 12 19 50 76 45 37 93 64 15 56 31 68 13 27 43 86 59 90 55 23 26 74 35 33 22 69 85 20 8 6 98 97 95 34 73 99 39 
